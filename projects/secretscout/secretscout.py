@@ -2,7 +2,6 @@
 import argparse, json, os, re, sys
 from pathlib import Path
 
-# --------- правила ----------
 RULES = [
     {
         "id": "aws_access_key",
@@ -129,6 +128,8 @@ def main():
         print(f"  match:   {f['match']}")
         print(f"  context: …{f['context']}…\n")
 
+    sys.exit(2)
+    
 if __name__ == "__main__":
     if len(sys.argv) == 1:
         print("Usage: python secretscout.py <path> [--exclude dir1,dir2] [--json]")

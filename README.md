@@ -11,11 +11,11 @@ Each project is simple, educational, and designed to improve your skills in **of
 
 ## 📋 Projects List
 
-| #  | Project Name             | Description |
-|----|--------------------------|-------------|
-| 1  |                          |             |
+| #  | Project Name             | Description                        |
+|----|--------------------------|------------------------------------|
+| 1  | Secretscout              | Simple scanner for exposed secrets |
 
-> ⚠️ **Disclaimer**: These projects are for **educational purposes only**.  
+> **Disclaimer**: These projects are for **educational purposes only**.  
 Do not use them for unauthorized access or illegal activities.
 
 ---
