@@ -188,18 +188,6 @@ Tune `--concurrency` and `--delay`, and keep `--max-pages` and `--max-depth` sma
 
 ---
 
-## .gitignore (recommended)
-
-Add to the repo’s root `.gitignore`:
-
-```
-projects/siteanalyzer/reports/
-projects/siteanalyzer/.pytest_cache/
-projects/siteanalyzer/**/__pycache__/
-```
-
----
-
 ## License
 
 See the repository’s root `LICENSE`.
