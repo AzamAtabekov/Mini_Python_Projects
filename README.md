@@ -16,6 +16,7 @@ Each project is simple, educational, and designed to improve your skills in **of
 | 1  | [secretscout](projects/secretscout)   | Simple scanner for exposed secrets          |
 | 2  | [siteanalyser](projects/siteanalyzer) |Website analyzer with crawling and reports   |
 
+
 > **Disclaimer**: These projects are for **educational purposes only**.  
 Do not use them for unauthorized access or illegal activities.
 
