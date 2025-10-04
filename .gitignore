@@ -143,3 +143,16 @@ yarn-error.log
 # - If you DO want to keep a configuration sample, commit e.g. `.env.example` (without secrets).
 # - If a legitimate file is accidentally ignored, you can force-add it: git add -f path/to/file
 # ===========================
+
+# --- Python tool caches
+.mypy_cache/
+.ruff_cache/
+
+# --- Project-wide reports & caches
+projects/*/reports/
+projects/*/.pytest_cache/
+projects/*/**/__pycache__/
+
+# --- Pyenv / Poetry (optional)
+.python-version
+# poetry.lock   # uncomment if you don't want to commit Poetry lock

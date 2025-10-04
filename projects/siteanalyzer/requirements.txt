@@ -1,0 +1,4 @@
+﻿httpx[http2]
+beautifulsoup4
+lxml
+tldextract
